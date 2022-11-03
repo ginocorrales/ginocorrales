@@ -1,4 +1,26 @@
-### Hi there, this is Gino Corrales 👋
+### 
+
+Hi there, this is Gino Corrales 👋
+
+CS working @ Caterpillar Inc.
+I am a Senior Cybersecurity IT Analyst - Applications. I graduated from ISU with a Computer Science degree. 
+
+🌍 I'm based in Bloomington, IL
+✉️ You can contact me at gino.p.corrales@gmail.com
+Skills
+Python Java JavaScript Kotlin Swift HTML5 React CSS3 Bootstrap GraphQL NodeJS MongoDB MySQL
+
+Socials
+ 
+
+Badges
+My GitHub Stats
+
+ginocorrales's GitHub stats
+
+Top Languages
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
