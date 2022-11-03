@@ -1,15 +1,13 @@
-### 
+👋 Hi there, this is Gino Corrales 
+==============================  
 
-Hi there, this is Gino Corrales 👋
+I am a Senior Cybersecurity IT Analyst - Applications.  
+-----------------------------------------  
 
 Consider myself as a Code Ninja that works @ Caterpillar Inc. with a CS degree @ ISU.
-I am a Senior Cybersecurity IT Analyst - Applications. 
 
-- 🌍 I'm based in Bloomington, IL
-- ✉️ You can contact me at gino.p.corrales@gmail.com
-
-Skills
-Python Java JavaScript Kotlin Swift HTML5 React CSS3 Bootstrap GraphQL NodeJS MongoDB MySQL
+* 🌍  I'm based in Bloomington, IL 
+* ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
 
 ### Skills
 
@@ -30,7 +28,7 @@ Python Java JavaScript Kotlin Swift HTML5 React CSS3 Bootstrap GraphQL NodeJS Mo
 
 ### Socials  
 
-<p align="left"> <a href="https://www.github.com/ginocorrales" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danielcranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ginocorrales" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ginocorrales" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
