@@ -24,8 +24,10 @@ Consider myself as a Code Ninja that works @ Caterpillar Inc. with a CS degree @
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="icons/skills/Dart-logo.png" width="36" height="36" alt="Dart" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="icons/skills/firebase-logo.png" width="36" height="36" alt="firebase" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/skills/Dart-logo.png" width="36" height="36" alt="Dart" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/skills/firebase-logo.png" width="36" height="36" alt="firebase" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/skills/c_sharp.png" width="36" height="36" alt="csharp" /></a>
+<a href="hhttps://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/out-host?view=powershell-7.3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/skills/PowerShell.png" width="36" height="36" alt="pshell" /></a>
   
 </p> 
 
