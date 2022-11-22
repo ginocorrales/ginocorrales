@@ -30,6 +30,7 @@ Consider myself as a Code Ninja that works @ Caterpillar Inc. with a CS degree @
 <a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/out-host?view=powershell-7.3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/skills/PowerShell.png" width="36" height="36" alt="pshell" /></a>
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/skills/android-logo.png" width="36" height="36" alt="pshell" /></a>
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/skills/ruby.png" width="36" height="36" alt="ruby" /></a>  
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/skills/ruby.png" width="36" height="36" alt="ruby" /></a>  
 </p> 
 
 ### Socials  
