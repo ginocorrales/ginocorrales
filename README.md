@@ -1,7 +1,7 @@
-👋 Hi there, this is Gino Corrales 
+👋 Sup, this is Gino Corrales! 
 ==============================  
 
-I am a Senior Cybersecurity IT Analyst - Applications.  
+I am a Senior Cybersecurity IT Analyst - aka IT-Ninja.  
 -----------------------------------------  
 
 Consider myself as a Code Ninja that works @ Caterpillar Inc. with a CS degree @ ISU.
