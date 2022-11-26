@@ -1,14 +1,14 @@
-👋 Sup, this is Gino P. Corrales! 🧑‍🦲
+👋 Sup, this is Gino P. Corrales! 🧑🏽‍🦲 ⚽
 ==============================  
 
-I am a Senior Cybersecurity IT Analyst - aka IT-Ninja.  
+I am a Senior Cybersecurity IT Analyst
 -----------------------------------------  
 
-Consider myself as a Code Ninja that works @ Caterpillar Inc. with a CS degree @ ISU.
+Code Ninja 🥷 that works @ Caterpillar Inc. with a CS degree @ ISU.
 
-* 🌍  I'm based in the midwest - Bloomington, IL 🤪
+* 🌍  I'm based in the midwest - Bloomington, IL 
 * ✉️You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
-* 💬  Ask me about ... life!
+* 💬  Ask me about ... life! 🦸🏻‍♂️
 * 🤔  I’m looking for help with your career development in IT, cybersecurity, Identity Access Management and backend development.
 
 ### Skills
