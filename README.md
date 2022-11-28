@@ -9,7 +9,7 @@ Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. with a CS
 * 🌍  I'm based in the midwest - Bloomington, IL 
 * ✉️You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
 * 💬  Ask me about ... life! 🦸🏻‍♂️
-* 🤔  I’m looking for help with your career development in IT, cybersecurity, Identity Access Management and backend development.
+* 🤔  I’m looking for help with your IT career development, leadership, cybersecurity, Identity Access Management and backend development.
 
 ### Skills
 
