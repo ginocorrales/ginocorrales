@@ -1,4 +1,5 @@
 👋 Sup, this is Ꮆ丨几ㄖ 匚ㄖ尺尺卂ㄥ乇丂! 🧑🏽‍🦲 ⚽
+<img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/aboutme/USA" alt="git" width="40" height="40"/>
 ==============================
 
 I am a YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst
