@@ -11,13 +11,14 @@ Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. with a CS
 * 💬  Ask me about ... life! 🦸🏻‍♂️
 * 🤔  I’m looking for help with your IT career development, leadership, cybersecurity, Identity Access Management and backend development.
 
+<!--
 ### About Me
 ⚽
 <img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/aboutme/USA.png" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/aboutme/Peru.png" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/aboutme/travel.png" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/ginocorrales/ginocorrales/main/icons/aboutme/mtb-silhouetter-02.png" alt="git" width="40" height="40"/>
-
+-->
 ### Skills
 
 <p align="left"> 
