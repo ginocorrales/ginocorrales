@@ -1,15 +1,15 @@
-👋 Sup, this is Ꮆ丨几ㄖ 匚ㄖ尺尺卂ㄥ乇丂! 🧑🏽‍🦲 ⚽
+👋 Howdy there, this is Ꮆ丨几ㄖ 匚ㄖ尺尺卂ㄥ乇丂! 🧑🏽‍🦲 ⚽ 🎮 🌍 😁
 ==============================
 
 I am an YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst !!!
 -----------------------------------------  
 
-Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. with a CS degree @ ISU.
+Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. with a CS degree @ ISU. 🎓
 
-* 🌍  I'm based in the midwest - Bloomington, IL 
+* 🌍  I'm based in the midwest - Bloomington, IL 🌽🍎
 * ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
-* 💬  Ask me about ... life! ✨
-* 🤔  I’m looking for help with your IT career development, leadership, cybersecurity, Identity Access Management and backend development.
+* 💬  Ask me about ... life! ✨🎁
+* 🤔  I’m looking for help with your IT career development, leadership, cybersecurity, Identity Access Management and backend development.🎱
 
 <!--
 ### About Me
