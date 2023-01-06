@@ -2,9 +2,9 @@
 ==============================
 
 I am an YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst !!!
------------------------------------------  
+-----------------------------------------
 
-Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. with a CS degree @ ISU. 🎓
+Computer Scientist from 🎓 ISU. I'm a Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. as a IAM Analyst.
 
 * 🌍  I'm based in the midwest - Bloomington, IL 🌽🍎
 * ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
