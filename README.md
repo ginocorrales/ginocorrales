@@ -4,8 +4,7 @@
 I am an YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst !!!
 -----------------------------------------
 
-Computer Scientist from 🎓 ISU. I'm a Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. as a IAM Analyst.
-
+Computer Scientist from 🎓 ISU. I define myself as a Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. as a IAM Analyst.
 * 🌍  I'm based in the Midwest - Bloomington, IL 🌽
 * ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
 * 💬  Ask me about ... anything related with super nerd life! ✨🎁
