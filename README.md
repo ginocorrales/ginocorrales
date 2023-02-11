@@ -7,7 +7,7 @@ I am an YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst !!!
 Computer Scientist from 🎓 ISU. I define myself as a Code Ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. as a IAM Analyst.
 * 🌍  I'm based in the Midwest - Bloomington, IL 🌽
 * ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
-* 💬  Ask me about ... anything related with any type of nerd stuff! ✨🎁
+* 💬  Ask me about nerd stuff! ✨🎁
 * 🤔  I would love to help with your IT career development, leadership, recruiting, cybersecurity, Identity Access Management and full stack dev.🎱
 
 <!--
