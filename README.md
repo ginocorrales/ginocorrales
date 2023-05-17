@@ -5,6 +5,11 @@ I am an YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst !!!
 -----------------------------------------
 
 Computer Scientist from 🎓 ISU. A passionate code ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. 💛🖤 as a IAM Analyst.
+
+<p>
+<img src="icons/aboutme/caterpillar-d9-328x215.png" width="82" height="54">
+</p>
+
 * 🌍  I'm based in the Midwest - Bloomington, IL 🌽
 * ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
 * 💬  Talk to me super nerd stuff! ✨🎁
