@@ -1,7 +1,7 @@
 👋 Howdy, this is Ꮆ丨几ㄖ 匚ㄖ尺尺卂ㄥ乇丂! 🧑🏽‍🦲 ⚽ 🎮 🌍
 ==============================
 
-
+A nerd that loves tech stuff!
 -----------------------------------------
 I am a Computer Scientist from 🎓 ISU. A passionate code ninja 🥷 that works as a YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. 💛🖤 as a IAM Analyst.
 
@@ -24,7 +24,7 @@ I am a Computer Scientist from 🎓 ISU. A passionate code ninja 🥷 that works
 -->
 ### Skills
 
-<p align="left"> 
+<p> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> 
@@ -79,7 +79,7 @@ I am a Computer Scientist from 🎓 ISU. A passionate code ninja 🥷 that works
 
 ### Socials  
 
-<p align="left"> <a href="https://www.github.com/ginocorrales" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ginocorrales" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p> <a href="https://www.github.com/ginocorrales" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ginocorrales" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <!--
 ### Badges
 
