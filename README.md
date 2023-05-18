@@ -1,10 +1,9 @@
 👋 Howdy, this is Ꮆ丨几ㄖ 匚ㄖ尺尺卂ㄥ乇丂! 🧑🏽‍🦲 ⚽ 🎮 🌍
 ==============================
 
-I am an YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst !!!
------------------------------------------
 
-Computer Scientist from 🎓 ISU. A passionate code ninja 🥷 that works @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. 💛🖤 as a IAM Analyst.
+-----------------------------------------
+I am a Computer Scientist from 🎓 ISU. A passionate code ninja 🥷 that works as a YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. 💛🖤 as a IAM Analyst.
 
 <p>
 <img src="icons/aboutme/caterpillar-d9-328x215.png" width="82" height="54">
