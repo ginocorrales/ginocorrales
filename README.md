@@ -3,7 +3,8 @@
 
 A nerd that loves tech stuff!
 -----------------------------------------
-I am a Computer Scientist from 🎓 ISU. A passionate code ninja 🥷 that works as a YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst @ ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. 💛🖤 as a IAM Analyst.
+I am a Computer Scientist from 🎓 ISU. A passionate code ninja 🥷 that works as a 
+YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst @ 💛🖤 ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. 💛🖤
 
 <p>
 <img src="icons/aboutme/caterpillar-d9-328x215.png" width="82" height="54">
