@@ -1,7 +1,7 @@
 👋 Howdy, this is Ꮆ丨几ㄖ 匚ㄖ尺尺卂ㄥ乇丂! 🧑🏽‍🦲 ⚽ 🎮 🌍
 ==============================
 
-A nerd that loves tech stuff!
+A nerd that loves techie stuff!
 -----------------------------------------
 I am a Computer Scientist from 🎓 ISU. A passionate code ninja 🥷 that works as a 
 YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst @ 💛🖤 ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. 💛🖤
