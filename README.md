@@ -13,7 +13,7 @@ YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst @ 💛🖤 ₵₳₮ɆⱤ₱�
 * 🌍  I'm based in the Midwest - Bloomington, IL 🌽
 * ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
 * 💬  Talk to me anything all day about super nerd stuff! ✨🎁
-* 🤔  I would love to help with your IT career development, leadership, recruiting, cybersec, Identity Access Management and full stack dev.🎱
+* 🤔  I would love to help with your IT career development, leadership, recruiting, cybersecurity, Identity Access Management and full stack dev.🎱
 
 <!--
 ### About Me
