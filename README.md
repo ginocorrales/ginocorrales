@@ -3,7 +3,7 @@
 
 A nerd that loves techie stuff! (all day long)
 -----------------------------------------
-I am a Computer Scientist from 🎓 ISU. A super passionate tech geek 🥷 that works as a 
+I am a Computer Scientist from 🎓 ISU. I'm super passionate tech geek 🥷 that works as a 
 YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst @ 💛🖤 ₵₳₮ɆⱤ₱łⱠⱠ₳Ɽ ł₦₵. 💛🖤
 
 <p>
