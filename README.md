@@ -10,7 +10,7 @@ YTiᴙUↄɘꙅᴙɘdYↄ ᴙoiᴎɘꙅ IT Analyst @ 💛🖤 ₵₳₮ɆⱤ₱�
 <img src="icons/aboutme/caterpillar-d9-328x215.png" width="82" height="54">
 </p>
 
-* 🌍  I'm located in the Midwest - Bloomington, IL 🌽
+* 🌍  I'm located in the Midwest - Bloomington, Illinois 🌽
 * ✉️  You can contact me at [gino.p.corrales@gmail.com](mailto:gino.p.corrales@gmail.com)
 * 💬  Talk to me all day nerd stuff! ✨🎁
 * 🤔  I would love to help with your IT career development, leadership, recruiting, cybersecurity, Identity Access Management and full stack dev.🎱
